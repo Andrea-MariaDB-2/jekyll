@@ -39,6 +39,7 @@
   * Load Jekyll plugins from BUNDLE_GEMFILE location (#8585)
   * fix(security):  CVE-2021-28834 (#8680)
   * Inject livereload script using `location.protocol` instead of `http:` (#8718)
+  * Respect collections_dir config within include tag (#8756)
 
 ### Development Fixes
 
@@ -53,6 +54,7 @@
   * Spell check action for markdown documentation (#8675)
   * Update expect to cover docs/_posts (#8677)
   * Enable Rubocop accessor grouping, fix existing offenses (#8293)
+  * Tags:Highlight: Decomposed HTMLLegacy formatter (#8623)
 
 ### Minor Enhancements
 
